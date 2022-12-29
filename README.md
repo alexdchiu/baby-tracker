@@ -1,3 +1,8 @@
+# install npm
+# npx create-react-app my-app --template typescript
+# npm start
+
+
 # baby-tracker
 baby tracker app
 
