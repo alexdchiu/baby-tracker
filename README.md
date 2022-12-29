@@ -7,7 +7,7 @@
 baby tracker app
 
 # tech stack
-  - o-auth / google login
+  - o-auth / google login (https://developers.google.com/identity/protocols/oauth2/web-server)
   - django?
   - react + next.js + typescript
   - google voice recognition (https://cloud.google.com/speech-to-text)
